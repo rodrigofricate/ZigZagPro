@@ -1,0 +1,24 @@
+FEITO:
++som esta totalmente em 2D
++Reverse separado em X e Y e estilizado
++barreiras sao produzidas corretamente agora
++moveball refeito
++corrigido um bug em q alguams plataformas ficavam com Y=0.001
++criado gamemodes (controller) :0-normal, 1-linah em X, 2-linha em Z, 3-zigzag
++floormaker foi reorganizado, algumas partes foram separadas em funçoes.
++as vezes o player via a moeda sumindo qndo nao a pegava. Foi aumentada a distancia de 1 para 2 entre o player e a moeda
+
+BUGS conehcidos
+-ao quase sair da plataforma, se pular e mudar a direção rapidamente, da pra pular uma quina.
+-em velocidades altas aquele "pulinho" q da de vez enquando se torna um problema
+-Como dito em live, o arquivo "Assembly-CSharp" tinha endereços de bibliotecas no seu pc e nao consegui usar no meu. Caso seja necessario, a um bkp com elas endereçadas para seu pc e outro para o meu. Não tenho certeza se dara erro ai
+
+Atalhos adicionados
+A:Aumenta o nivel de dificuldade
+Z:Diminui o nivel de dificuldade
+1:Aumenta velocidade
+Q:Diminui a velocidade
+W:ativa gravidade da bola
+E: Desativa a gravidade da bola
+I:move a camera para uma visao de cima
+K:move a camera para uma visao d frente

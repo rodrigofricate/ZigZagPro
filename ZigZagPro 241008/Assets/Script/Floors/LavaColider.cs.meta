@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 198db4bd936e29f428fcf1a4cf820142
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lavaFX: {fileID: 8300000, guid: f3ceda3a942189b4baac1da25a3fe704, type: 3}
+  - lavaParticles: {fileID: 110790, guid: 7a403b525dbfaf842a38e3027c438af6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
